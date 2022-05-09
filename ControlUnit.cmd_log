@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "V:/muxmohamedadel/ControlUnit.xst" -ofn "V:/muxmohamedadel/ControlUnit.syr" 

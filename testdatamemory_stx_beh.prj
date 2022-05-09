@@ -1,0 +1,2 @@
+vhdl isim_temp "datamemory.vhd"
+vhdl isim_temp "testdatamemory.vhd"
